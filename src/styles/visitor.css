@@ -1,0 +1,41 @@
+/* Finite entrance motion, inspired by the reference's fade from below. */
+@keyframes welcome-rise{from{opacity:0;transform:translate3d(0,28px,0)}to{opacity:1;transform:translate3d(0,0,0)}}
+@media(prefers-reduced-motion:no-preference){
+  .welcome-motion .hero-copy>.eyebrow,.welcome-motion .page-intro>.eyebrow{animation:welcome-rise .7s var(--ease) .05s both}
+  .welcome-motion .hero-copy>h1,.welcome-motion .page-intro>h1{animation:welcome-rise .9s var(--ease) .18s both}
+  .welcome-motion .hero-copy>.intro,.welcome-motion .page-intro>p:last-child{animation:welcome-rise .85s var(--ease) .34s both}
+  .welcome-motion .hero-actions{animation:welcome-rise .8s var(--ease) .48s both}
+  .welcome-motion .hero-note{animation:welcome-rise .8s var(--ease) .58s both}
+}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+[hidden]{display:none!important}
+.whatsapp-float{position:fixed;right:max(24px,env(safe-area-inset-right));bottom:max(24px,env(safe-area-inset-bottom));z-index:40;display:flex;align-items:center;justify-content:center;gap:12px;min-height:60px;padding:16px 21px;border-radius:32px;background:var(--forest);color:white;border:1px solid #719b7d;box-shadow:0 5px 0 #0b2b22,0 12px 30px #143c3233;font-size:.875rem;font-weight:600;transition:transform .2s,box-shadow .2s}
+.whatsapp-float svg{flex-shrink:0}
+.whatsapp-float:hover,.whatsapp-float:focus-visible{transform:translateY(-3px);box-shadow:0 8px 0 #0b2b22,0 18px 35px #143c3244}
+.whatsapp-float:active{transform:translateY(3px);box-shadow:0 2px 0 #0b2b22}
+.cookie-banner{position:fixed;z-index:50;left:24px;bottom:24px;width:min(550px,calc(100vw - 48px));max-height:calc(100dvh - 48px);overflow:auto;overscroll-behavior:contain;padding:26px;background:#fbfcf9;border:1px solid #b6cdbb;border-radius:14px;box-shadow:0 15px 70px #102c3240;}
+.cookie-copy .eyebrow{font-size:.6875rem;margin-bottom:8px}
+.cookie-copy h2{font-size:2.2rem;margin-bottom:12px}
+.cookie-copy>p:not(.eyebrow),.cookie-details p{font-size:.9375rem;line-height:1.65;color:var(--muted);margin-bottom:14px}
+.cookie-details{border:none}
+.cookie-details summary{font-size:.8125rem;padding:6px 0 12px;font-weight:600;justify-content:flex-start;gap:12px}
+.cookie-details summary:after{content:'+';font-size:1.2rem}
+.cookie-details[open] summary:after{content:'−'}
+.cookie-details p{font-size:.875rem;margin-top:0}
+.cookie-actions{display:flex;gap:14px;margin-top:10px;padding-bottom:5px}
+.cookie-actions .button{flex:1;min-height:46px;font-size:.875rem;padding:12px 15px}
+.cookie-essential{--button-depth:#acc4b2;--button-glow:#74a08430;background:#edf5ed;color:var(--forest);border-color:#b0c7b7}
+.cookie-essential:hover{background:#deebdf}
+.cookie-settings{color:inherit;background:none;border:0;border-bottom:1px solid #a4c5b0;font:inherit;padding:3px 0;min-height:32px}
+.cookie-settings:hover{color:white}
+.footer-bottom{padding-bottom:104px}
+@media(max-width:760px){
+  .whatsapp-float{right:16px;bottom:max(20px,env(safe-area-inset-bottom));width:58px;height:58px;min-height:58px;padding:14px}
+  .whatsapp-float span{display:none}
+  .cookie-banner{left:12px;bottom:12px;width:calc(100vw - 24px);padding:20px;max-height:65dvh}
+  body.cookies-open .whatsapp-float{bottom:calc(var(--cookie-banner-height,300px) + 28px)}
+  .cookie-actions{gap:10px}
+  .cookie-actions .button{font-size:.8125rem;padding-inline:10px}
+  .cookie-settings{margin-top:10px}
+}
+@media(prefers-reduced-motion:reduce){.whatsapp-float:hover,.whatsapp-float:active{transform:none}}

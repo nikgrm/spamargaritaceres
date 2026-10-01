@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Cuidado facial",
+    "note": "Conoce qué incluye cada opción y el cuidado al que está orientada.",
+    "items": [
+      [
+        "Limpieza facial profunda",
+        "Una sesión de limpieza para retirar impurezas y células muertas de la superficie de la piel. Incluye vapor ozono, exfoliación, extracción de impurezas, mascarillas, ionización, hidratación facial, fototerapia y alta frecuencia. La valoración permite adaptar el cuidado a tu piel."
+      ],
+      [
+        "Hidratación facial",
+        "Cuidado enfocado en aportar suavidad y mejorar la sensación de una piel seca. Se aplican productos hidratantes seleccionados para las necesidades del rostro. En la valoración revisamos qué tipo de cuidado requiere tu piel."
+      ],
+      [
+        "Nutrición facial",
+        "Tratamiento orientado al cuidado de la piel mediante la aplicación de productos nutritivos e hidratantes. Es una opción para quienes buscan recuperar una apariencia más cuidada y una sensación de suavidad. El protocolo se elige de manera personalizada."
+      ],
+      [
+        "Rejuvenecimiento facial con láser",
+        "Tratamiento con tecnología láser orientado al cuidado de la textura y la firmeza de la piel. Se plantea especialmente para necesidades de piel madura. Antes de realizarlo, el profesional valora tu piel y explica las indicaciones y los cuidados del procedimiento."
+      ],
+      [
+        "Plasma rico en plaquetas",
+        "Procedimiento de cuidado facial orientado a las necesidades de hidratación, elasticidad y líneas de expresión. Requiere valoración profesional previa para definir si es adecuado para ti, así como las sesiones y los cuidados posteriores."
+      ],
+      [
+        "Tratamiento de manchas",
+        "Cuidado especializado del tono de la piel que puede incorporar productos despigmentantes, exfoliación, ácidos o tecnología láser, según valoración. El profesional determina qué alternativa corresponde al tipo de piel y a las características de las manchas."
+      ],
+      [
+        "Tratamiento de acné",
+        "Protocolo facial centrado en la limpieza y el cuidado de pieles con exceso de grasa e imperfecciones. Puede incluir atención de las manchas asociadas. El tratamiento se define de acuerdo con las necesidades observadas en la valoración."
+      ],
+      [
+        "Hollywood Peel",
+        "Tratamiento facial que combina carbón activo y tecnología láser Nd:YAG. Se orienta a la limpieza de los poros, la exfoliación y el cuidado de la textura y el tono del rostro. La valoración previa permite determinar su pertinencia para tu piel."
+      ],
+      [
+        "Peeling en espalda",
+        "Sesión dirigida al cuidado de la piel de la espalda. Contempla exfoliación, limpieza de poros y extracción, con un enfoque en la suavidad y el aspecto de la zona. Se revisan las necesidades de la piel antes de definir el protocolo."
+      ]
+    ]
+  },
+  {
+    "title": "Armonía corporal",
+    "id": "corporales",
+    "note": "Técnicas, aparatología y planes personalizados para distintas necesidades corporales.",
+    "items": [
+      [
+        "Programa de moldeamiento corporal",
+        "Programa personalizado que combina distintas técnicas de cuidado corporal según tus objetivos. La valoración define las zonas a trabajar, los tratamientos y el número de sesiones. Cada plan se adapta a las necesidades de la persona."
+      ],
+      [
+        "Levantamiento de glúteos",
+        "Protocolo corporal enfocado en la tonicidad y la apariencia de la zona glútea. Las técnicas y las sesiones se seleccionan después de revisar tus objetivos y necesidades. Es parte de nuestro cuidado corporal personalizado."
+      ],
+      [
+        "Tratamiento anticelulitis",
+        "Protocolo orientado al cuidado del aspecto de la piel en zonas con celulitis. Puede incorporar distintas técnicas corporales de acuerdo con la valoración. El equipo define las zonas a trabajar y el plan de sesiones."
+      ],
+      [
+        "Drenaje linfático",
+        "Técnica de cuidado corporal centrada en el drenaje y la atención de la retención de líquidos. Puede formar parte de un protocolo corporal o de un acompañamiento posoperatorio, según indicación. Su pertinencia se revisa de manera individual."
+      ],
+      [
+        "Presoterapia",
+        "Tratamiento de aparatología corporal que forma parte de nuestras opciones de cuidado y relajación muscular. La duración habitual indicada para una sesión es de 20 a 30 minutos. El equipo valora si corresponde a tus necesidades antes de incorporarlo al protocolo."
+      ],
+      [
+        "Radiofrecuencia",
+        "Tecnología facial y corporal que aplica calor mediante ondas electromagnéticas a una profundidad determinada. Se utiliza en protocolos enfocados en el cuidado de la firmeza de la piel. La zona, la intensidad y las sesiones se definen por el profesional."
+      ],
+      [
+        "Tensamax",
+        "Radiofrecuencia monopolar con modalidades capacitiva y resistiva, diseñada para producir calentamiento profundo. Se contempla en protocolos faciales y corporales para el cuidado de la firmeza, y en determinados procesos posoperatorios. Requiere una valoración que defina la indicación y la zona de trabajo."
+      ],
+      [
+        "Cavitación",
+        "Técnica de aparatología que utiliza ultrasonidos de baja frecuencia dentro de protocolos de moldeamiento corporal. Se orienta al trabajo de zonas con grasa localizada. La valoración define si es una opción adecuada y cómo integrarla en tu plan."
+      ],
+      [
+        "Ultrasonido",
+        "Tecnología utilizada en tratamientos faciales y corporales. Puede incorporarse a protocolos de cuidado de la textura de la piel, zonas con celulitis o atención de cicatrices, según valoración. El profesional determina la indicación y las zonas de aplicación."
+      ],
+      [
+        "Lipoláser no invasivo",
+        "Técnica que emplea energía láser como parte de un protocolo de moldeamiento corporal. Se enfoca en zonas con grasa localizada y se selecciona según las necesidades de cada persona. Las sesiones y el plan se definen en la valoración."
+      ],
+      [
+        "Vacumterapia",
+        "Técnica de aparatología contemplada en protocolos de moldeamiento, cuidado de la celulitis y trabajo de la zona glútea. Se incorpora de acuerdo con tus objetivos corporales. El equipo define la zona y el número de sesiones tras la valoración."
+      ],
+      [
+        "Gimnasia pasiva",
+        "Procedimiento que utiliza electrodos para estimular el trabajo muscular dentro de un protocolo de tonificación. Se seleccionan las zonas y la intensidad según las necesidades de cada persona. Puede formar parte de un programa corporal personalizado."
+      ],
+      [
+        "Vendas frías",
+        "Técnica con vendas utilizada en protocolos de cuidado corporal, tonificación y moldeamiento. Se trabaja por zonas de acuerdo con la valoración. El equipo explica cómo se integra en el plan y qué indicaciones debes seguir."
+      ],
+      [
+        "Yesoterapia",
+        "Procedimiento corporal realizado con vendas de yeso en zonas específicas. Forma parte de las opciones de moldeamiento que se consideran en la valoración. El protocolo se adapta a las necesidades y condiciones de cada persona."
+      ],
+      [
+        "Manta térmica",
+        "Cuidado corporal mediante calor, disponible como parte de protocolos y experiencias de relajación. Su uso se define de manera individual. También forma parte del combo 1, junto con masaje relajante y presoterapia."
+      ],
+      [
+        "Lámpara infrarroja",
+        "Aplicación de calor mediante tecnología infrarroja dentro de tratamientos corporales seleccionados. La sesión puede durar entre 10 y 20 minutos, según el protocolo. El profesional determina la zona y la pertinencia de su uso."
+      ],
+      [
+        "Mesoterapia",
+        "Técnica que contempla la administración intradérmica de medicamentos en protocolos para zonas con grasa localizada. Es un procedimiento realizado por profesionales y requiere valoración previa. Durante la consulta se explican las indicaciones y los cuidados correspondientes."
+      ],
+      [
+        "Carboxiterapia",
+        "Procedimiento estético no quirúrgico que utiliza la infiltración de dióxido de carbono. Se contempla para necesidades relacionadas con celulitis, estrías o grasa localizada. Requiere valoración profesional y una explicación individual de las indicaciones y los cuidados."
+      ],
+      [
+        "Cuidado posoperatorio",
+        "Acompañamiento posterior a procedimientos como lipoescultura y cirugías de busto, glúteos o rostro. Las sesiones se definen conforme a la recomendación del cirujano y las necesidades del paciente. El plan de atención respeta las indicaciones del proceso de recuperación."
+      ]
+    ]
+  },
+  {
+    "title": "Belleza y mirada",
+    "id": "belleza",
+    "note": "Diseño y detalles para realzar tus facciones y complementar tu rutina.",
+    "items": [
+      [
+        "Micropigmentación de cejas",
+        "Diseño de cejas para realzar las facciones con técnicas pelo a pelo, híbridas o sombreadas. La elección se realiza de acuerdo con el diseño deseado y la valoración profesional. El servicio incluye retoque, un control al mes y garantía de tres meses después del procedimiento; el equipo te explicará sus condiciones y los cuidados posteriores."
+      ],
+      [
+        "Micropigmentación de ojos",
+        "Definición de la mirada mediante línea superior, línea inferior o línea de iluminación. El diseño se acuerda con el profesional para acompañar tus facciones. Incluye retoque y control al mes, con orientación sobre los cuidados de la zona tratada."
+      ],
+      [
+        "Micropigmentación de labios",
+        "Opciones de delineado y relleno de color para realzar la forma y el tono de los labios. El diseño y el color se revisan en la valoración. Incluye retoque y control al mes; el equipo comparte las indicaciones para cuidar la zona durante la cicatrización."
+      ],
+      [
+        "Lifting de pestañas",
+        "Técnica para dar curvatura a tus pestañas, con opciones de efecto natural o efecto pestañina. La sesión tiene una duración aproximada de una hora y media. Consulta en la valoración qué efecto se adapta a tu mirada y qué cuidados seguir después."
+      ],
+      [
+        "Pestañas pelo a pelo",
+        "Aplicación de extensiones sobre las pestañas para dar una apariencia de mayor longitud. Es un servicio semipermanente con una sesión aproximada de 90 minutos. El equipo orienta sobre el acabado y el mantenimiento adecuado."
+      ],
+      [
+        "Depilación con cera miel",
+        "Depilación para zonas del rostro y del cuerpo mediante cera miel. Es una opción para retirar el vello y disfrutar de una sensación de piel suave. Las zonas a tratar y las recomendaciones de cuidado se revisan con el equipo."
+      ],
+      [
+        "Depilación láser trionda",
+        "Sistema que combina las tecnologías alejandrita, diodo y Nd:YAG en un mismo disparo, con enfriamiento integrado. Se utiliza para el cuidado del vello del rostro y del cuerpo. La valoración del tipo de piel, vello y zona permite definir el plan de sesiones."
+      ]
+    ]
+  },
+  {
+    "title": "Estética especializada",
+    "id": "especializada",
+    "note": "Procedimientos que se definen mediante valoración profesional individual.",
+    "items": [
+      [
+        "Medicina estética facial",
+        "Opciones de atención profesional para rejuvenecimiento facial, manchas y líneas de expresión. Entre los procedimientos disponibles se encuentran toxina botulínica, ácido hialurónico, Radiesse, hilos de colágeno e hilos tensores. La elección requiere una valoración individual en la que se explican el procedimiento, sus indicaciones y cuidados."
+      ],
+      [
+        "Retiro de lunares y sueroterapia",
+        "Servicios de atención especializada que requieren valoración profesional previa. La consulta permite revisar el motivo de atención y determinar si el procedimiento corresponde a tus necesidades. Solicita información al equipo para conocer los detalles de la valoración."
+      ],
+      [
+        "Valoración de cirugías estéticas",
+        "Orientación con el profesional correspondiente para lipoescultura, blefaroplastia, rinoplastia, ritidoplastia, mamoplastia de aumento o reducción, levantamiento de busto, lipectomía y abdominoplastia. La valoración es el espacio para revisar tus objetivos y conocer las opciones, condiciones de atención y detalles del procedimiento."
+      ]
+    ]
+  }
+]

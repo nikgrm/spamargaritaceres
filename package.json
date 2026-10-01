@@ -1,0 +1,13 @@
+{
+  "name": "margarita-caceres-spa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio web oficial de Margarita Cáceres Spa y Estética",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
